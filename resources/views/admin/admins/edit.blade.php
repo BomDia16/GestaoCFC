@@ -70,6 +70,7 @@
 									</a>
 								</li>
 								<li class="divider"></li>
+                                <!-- Logout da conta -->
 								<li>
 									<a class="dropdown-item black-text" href=""
                                        onclick="event.preventDefault();
